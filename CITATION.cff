@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this template in a publication, please cite it as below."
+authors:
+  - family-names: Puzikova
+    given-names: Valeria
+    alias: vvp-cfd
+title: "beamer-template-kit: LaTeX class for Beamer presentations with exhaustive comments"
+version: 2.0.0
+date-released: 2026-08-08
+url: "https://github.com/vvp-cfd/beamer-template-kit"
+repository-code: "https://github.com/vvp-cfd/beamer-template-kit"
+license: MIT

@@ -1,0 +1,25 @@
+{
+    "creators": [
+        {
+            "name": "Puzikova, Valeria",
+            "affiliation": "Independent Researcher",
+            "orcid": "https://orcid.org/0000-0003-0712-4519"
+        }
+    ],
+    "title": "beamer-template-kit: LaTeX class for Beamer presentations with exhaustive comments",
+    "description": "A self-contained LaTeX Beamer class with exhaustive inline comments. Colors, fonts, icons, slide layout, blocks, tables, animations — everything is customizable in a single file without diving into Beamer documentation.",
+    "keywords": [
+        "latex",
+        "beamer",
+        "presentation",
+        "xelatex",
+        "template",
+        "beamer-template",
+        "latex-template"
+    ],
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "version": "2.0.0",
+    "language": "eng"
+}
