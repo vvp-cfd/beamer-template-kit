@@ -127,7 +127,7 @@ https://github.com/vvp-cfd/beamer-template-kit
 
 Для академического цитирования см. [`CITATION.cff`](CITATION.cff).
 
-После первого релиза будет доступен DOI через [Zenodo](https://zenodo.org).
+DOI: [10.5281/zenodo.21855491](https://doi.org/10.5281/zenodo.21855491)
 
 ## Контакты
 
